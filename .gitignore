@@ -1,0 +1,60 @@
+# Django 
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Packages
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+*.egg
+*.egg-info
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# Python
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+*.sln
+*.suo
+*.ncb
+*.user
